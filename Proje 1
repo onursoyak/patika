@@ -3,4 +3,13 @@ Veri yapilari ve algoritmalar
 
 [22,27,16,2,18,6] -> Insertion Sort
 Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
-(n+1).n/2'den O(n²)
+(n+1).n/2'den Big-O gösterimi: O(n²)
+
+Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
+Average case: Aradığımız sayının ortada olması
+
+[7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
+1.[2,3,5,8,7,9,4,15,6]
+2.[2,3,5,8,7,9,4,15,6]
+3.[2,3,4,8,7,9,5,15,6]
+4.[2,3,4,7,8,9,5,15,6]
